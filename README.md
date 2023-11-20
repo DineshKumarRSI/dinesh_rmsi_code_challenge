@@ -1,11 +1,9 @@
-# dinesh_rmsi_code_challenge
-
 There are two projects code-challenge-client and code-challenge-api. 
 
-## code-challenge-client: 
+## Code-Challenge-Client: 
 This project was created for a UI interface. All top stories are displayed here. Users can view and search the stories.
 
-## code-challenge-api:
+## Code-Challenge-API:
 This project was created to fetch the stories from different API and give an endpoint of stories with details.
 
 ## Technology:
