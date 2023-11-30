@@ -8,7 +8,7 @@ This project was created to fetch the stories from different API and give an end
 
 ## Technology:
 UI : Angular 17,
-API: Asp.Net Core 7
+API: Asp.Net Core 7,
 Editor : Visual Studio 2022
 
 To run the application first download both projects and extract the project. First, run the code-challenge-api and then run code-challenge-client. Now you see the top stories on browsers.
